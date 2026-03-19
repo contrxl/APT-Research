@@ -2,22 +2,22 @@
 
 Also tracked as: Void Manticore, Storm-0842, Dune, Handala Hack Team
 
-19.03.2026 --> https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/
-12.03.2026 --> https://unit42.paloaltonetworks.com/handala-hack-wiper-attacks/
-12.03.2026 --> https://research.checkpoint.com/2026/handala-hack-unveiling-groups-modus-operandi/
-12.03.2026 --> https://cybernews.com/cyber-war/iran-linked-hackers-verifone-stryker-cyberattacks-handala/
-11.03.2026 --> https://www.hindustantimes.com/world-news/us-news/handala-hackers-breach-hebrew-academy-website-amid-iran-israel-war-leave-chilling-message-for-users-101773231048331.html
-11.03.2026 --> https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/
-03.12.2025 --> https://blog.narimangharib.com/posts/2025%2F12%2F1764764643623?lang=en
-24.11.2025 --> https://brandefense.io/blog/void-manticore-apt-2025/
-09.06.2025 --> https://cpj.org/2025/07/iranian-linked-hacker-group-targets-iran-international-journalists-in-cyberattack/
-16.10.2024 --> https://cybershafarat.com/2024/10/16/banished-kitten-also-known-as-storm-0842-and-dune/
-19.09.2024 --> https://www.trellix.com/blogs/research/the-iranian-cyber-capability/
-21.05.2024 --> https://rewterz.com/threat-advisory/iranian-threat-actors-launch-destructive-wiping-attacks-on-targeted-nations-active-iocs
-20.05.2024 --> https://www.infosecurity-magazine.com/news/iranlinked-void-manticore/
-20.05.2024 --> https://thehackernews.com/2024/05/iranian-mois-linked-hackers-behind.html
-28.02.2024 --> https://thehackernews.com/2024/02/iran-linked-unc1549-hackers-target.html
-26.02.2024 --> https://www.microsoft.com/en-us/security/security-insider/threat-landscape/iran-surges-cyber-enabled-influence-operations-in-support-of-hamas/
+19.03.2026 --> https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/  
+12.03.2026 --> https://unit42.paloaltonetworks.com/handala-hack-wiper-attacks/  
+12.03.2026 --> https://research.checkpoint.com/2026/handala-hack-unveiling-groups-modus-operandi/  
+12.03.2026 --> https://cybernews.com/cyber-war/iran-linked-hackers-verifone-stryker-cyberattacks-handala/  
+11.03.2026 --> https://www.hindustantimes.com/world-news/us-news/handala-hackers-breach-hebrew-academy-website-amid-iran-israel-war-leave-chilling-message-for-users-101773231048331.html  
+11.03.2026 --> https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/  
+03.12.2025 --> https://blog.narimangharib.com/posts/2025%2F12%2F1764764643623?lang=en  
+24.11.2025 --> https://brandefense.io/blog/void-manticore-apt-2025/  
+09.06.2025 --> https://cpj.org/2025/07/iranian-linked-hacker-group-targets-iran-international-journalists-in-cyberattack/  
+16.10.2024 --> https://cybershafarat.com/2024/10/16/banished-kitten-also-known-as-storm-0842-and-dune/  
+19.09.2024 --> https://www.trellix.com/blogs/research/the-iranian-cyber-capability/  
+21.05.2024 --> https://rewterz.com/threat-advisory/iranian-threat-actors-launch-destructive-wiping-attacks-on-targeted-nations-active-iocs  
+20.05.2024 --> https://www.infosecurity-magazine.com/news/iranlinked-void-manticore/  
+20.05.2024 --> https://thehackernews.com/2024/05/iranian-mois-linked-hackers-behind.html  
+28.02.2024 --> https://thehackernews.com/2024/02/iran-linked-unc1549-hackers-target.html  
+26.02.2024 --> https://www.microsoft.com/en-us/security/security-insider/threat-landscape/iran-surges-cyber-enabled-influence-operations-in-support-of-hamas/  
 
 # Indicators of Compromise
 | Type | Hash |
