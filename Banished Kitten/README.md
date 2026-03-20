@@ -27,6 +27,8 @@ Also tracked as: Void Manticore, Storm-0842, Dune, Handala Hack Team
 # Communication
 Twitter (Suspended as of 20.03.2026): https://x.com/Handala_Hack  
 Website (Seized as of 20.03.2026): https[://]handala-hack[.]to
+Website (Active as of 20.03.2026): https[://]handala-team[.]to
+Telegram (Active as of 20.03.2026): https[://]t[.]me/s/HANDALA_HPR2
 
 # Referenced CVEs
 | CVE | Affected Product | Description |
