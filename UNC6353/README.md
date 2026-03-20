@@ -1,6 +1,4 @@
 # Overview
-Also tracked as: Void Manticore, Storm-0842, Dune, Handala Hack Team
-
 | Date | URL |
 | ---- | --- |
 | 18.03.2026 | https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/ |
