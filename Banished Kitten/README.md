@@ -34,10 +34,10 @@ Website (Seized as of 20.03.2026): https[://]handala-hack[.]to
 | CVE-2023-27350 | PaperCut NG/MF | Pre-auth RCE in print management software. |
 | CVE-2021-26084 | Atlassian Confluence | OGNL injection enabling pre-auth RCE. |
 | CVE-2022-47966 | Zoho ManageEngine | Pre-auth RCE via SAML. |
-| CVE-2024-3400 | Palo Alto PAN-OS | Command injection in GlobalProtect VPN |
+| CVE-2024-3400 | Palo Alto PAN-OS | Command injection in GlobalProtect VPN. |
 
 # Indicators of Compromise
-| Type | Hash |
+| Type | Indicator |
 | ---- | ---- |
 | Handala Wiper | 5986ab04dd6b3d259935249741d3eff2 |
 | Handala Powershell Wiper | 3cb9dea916432ffb8784ac36d1f2d3cd |
